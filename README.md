@@ -15,7 +15,7 @@
 These are the languages, tools & tech I use (or breaking my brain trying to learn 🤓):
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html,css,mysql,oracle,git,vscode,photoshop,premiere" />
+  <img src="https://skillicons.dev/icons?i=HTML,CSS,C,C++,C#,SQL,MYSQL,PYTHON,DJANGO " />
 </div>
 
 ---
@@ -46,7 +46,3 @@ I'm not just writing code in a dark room... I'm online too 👇
 
 ---
 
-### 🔥 GitHub Stats (just for fun)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pal2711&show_icons=true&theme=radical" alt="Pal's GitHub stats" />
-</p>
