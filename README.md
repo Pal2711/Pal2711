@@ -42,20 +42,3 @@
 
 ---
 
-### ✨ Fun Fact
-> “I don't just write code. I tell computers how to vibe.” 😎
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pal2711&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pal2711&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pal2711&theme=highcontrast&hide_border=false" />
-</p>
