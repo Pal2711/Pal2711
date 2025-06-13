@@ -25,15 +25,13 @@
 
 ### 🌍 Let's Connect  
 <p align="center">
-  <a href="https://github.com/Pal2711"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pal-gajera-92976027b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/GajeraPal55013"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_pal_27_/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.threads.net/@pal_27"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Palgajera27"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://github.com/Pal2711" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/pal-gajera-92976027b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://x.com/GajeraPal55013" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" /></a>
+  <a href="https://www.instagram.com/_pal_27_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://www.threads.net/@pal_27" target="_blank"><img src="https://skillicons.dev/icons?i=threads" alt="Threads" /></a>
+  <a href="https://www.youtube.com/@Palgajera27" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" /></a>
 </p>
-
----
 
 ### 🚧 Current Projects
 - 🕸️ Building feature-rich **Django web apps**
