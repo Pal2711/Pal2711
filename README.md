@@ -18,7 +18,7 @@
 
 ### 🧰 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,sqlite,git,github,vscode,wordpress" />
 </p>
 
 ---
