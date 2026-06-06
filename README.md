@@ -1,112 +1,259 @@
+<!--
+███████████████████████████████████████████████████████████████
+  PAL GAJERA — GitHub Profile README
+  Design: Cinematic Dark Luxury × Neon Precision
+███████████████████████████████████████████████████████████████
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=200&section=header&text=Pal%20Gajera&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn" />
+<!--  ═══════════  HERO BANNER  ═══════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Pal+%F0%9F%91%8B;Django+Developer+%F0%9F%90%8D;Backend+Builder+%E2%9A%99%EF%B8%8F;Web+Dev+Explorer+%F0%9F%94%A5;Always+Learning...+%F0%9F%93%9A" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,50:0d1f2d,100:0f0f0f&height=280&section=header&text=PAL%20GAJERA&fontSize=78&fontColor=ffffff&fontAlignY=45&desc=↳%20Crafting%20backends%20that%20breathe&descSize=17&descAlignY=68&descColor=38bdf8&animation=fadeIn&fontStyle=bold&stroke=38bdf8&strokeWidth=1" />
+
+</div>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Pal2711?label=Follow&style=social)](https://github.com/Pal2711)
+<!--  ═══════════  IDENTITY STRIP  ═══════════ -->
+
+<div align="center">
+
+![](https://img.shields.io/badge/ROLE-Backend%20Developer-0f172a?style=for-the-badge&labelColor=38bdf8&color=0f172a&logoColor=white)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Pal2711&color=00c9ff&style=flat-square&label=Profile+Views)](https://github.com/Pal2711)
+![](https://img.shields.io/badge/FOCUS-Django%20%26%20Python-0f172a?style=for-the-badge&labelColor=818cf8&color=0f172a)
+&nbsp;
+![](https://img.shields.io/badge/BASE-Rajkot%2C%20Gujarat-0f172a?style=for-the-badge&labelColor=34d399&color=0f172a)
+&nbsp;
+![](https://img.shields.io/badge/STATUS-Open%20to%20Collabs-0f172a?style=for-the-badge&labelColor=fb923c&color=0f172a)
 
 </div>
-
----
-
-## 🧠 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
-
-- 🏠 From the heart of **Rajkot, Gujarat**
-- 📚 Pursuing **BCA at RK University**
-- 📧 Reach me: **palgajera7@gmail.com**
-- 🔭 Deep diving into **Web Development** & **Software Engineering**
-- 🧩 I love solving real-world problems with clean, elegant code
-- ⚡ Fun fact: I believe every bug is just an undiscovered feature 😄
-
-<br clear="right"/>
-
----
-
-## 🧰 Tech Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django&perline=5" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,wordpress,git,github,vscode&perline=6" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pal2711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=92fe9d&text_color=ffffff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pal2711&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9ff&fire=92fe9d&currStreakLabel=00c9ff" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pal2711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&text_color=ffffff" />
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=560&lines=%3E+python+manage.py+runserver+%E2%9C%93;%3E+Solving+real+problems+with+elegant+code;%3E+BCA+%40+RK+University+%7C+Rajkot%2C+Gujarat;%3E+Building+the+web%2C+one+endpoint+at+a+time;%3E+git+commit+-m+%22always+learning%22" />
 </div>
 
 ---
 
-## 🚧 What I'm Building
+<br/>
 
-| 🔨 Project | 🚀 Status | 🛠️ Stack |
-|---|---|---|
-| Django Web App | 🟢 In Progress | Python, Django, SQLite |
-| REST API Backend | 🟡 Learning | Django REST Framework |
-| Portfolio Website | 🔵 Planning | HTML, CSS, JS |
-| Clean Code Practice | 🟢 Ongoing | Git, GitHub |
+<!--  ═══════════  ABOUT — SPLIT LAYOUT  ═══════════ -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="52%" valign="top">
+
+### ◈ &nbsp;Who I Am
+
+```yaml
+# pal_gajera.yaml
+
+name:       "Pal Gajera"
+pronouns:   "He / Him"
+location:   "Rajkot, Gujarat 🇮🇳"
+university: "RK University — BCA"
+email:      "palgajera7@gmail.com"
+
+currently:
+  - Building feature-rich Django apps
+  - Learning REST API architecture
+  - Mastering Git workflows
+
+philosophy: >
+  Code is craft. Every function is
+  a decision. Every PR is a statement.
+
+open_to:
+  - Collaborations
+  - Open Source
+  - Learning from anyone
+```
+
+</td>
+<td width="4%"></td>
+<td width="44%" valign="top">
+
+### ◈ &nbsp;By the Numbers
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pal2711&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&bg_color=00000000&count_private=true&hide=stars)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pal2711&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=00000000&langs_count=5)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 🌍 Let's Connect
+<br/>
+
+<!--  ═══════════  TECH STACK — CUSTOM SECTIONS  ═══════════ -->
+
+### ◈ &nbsp;Arsenal
+
+<br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pal2711)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pal-gajera-92976027b)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/GajeraPal55013)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_pal_27_/)
-[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@pal_27)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Palgajera27)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palgajera7@gmail.com)
+**— Languages —**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark&perline=4" />
+
+<br/><br/>
+
+**— Frameworks & Databases —**
+
+<img src="https://skillicons.dev/icons?i=django,mysql,sqlite,wordpress&theme=dark&perline=4" />
+
+<br/><br/>
+
+**— Tools & Environment —**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
 
 </div>
+
+<br/>
 
 ---
 
-## 🏆 GitHub Trophies
+<br/>
+
+<!--  ═══════════  PROJECTS — CARD TABLE  ═══════════ -->
+
+### ◈ &nbsp;In the Workshop
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pal2711&theme=tokyonight&no-frame=true&row=1&column=6" />
+| &nbsp; | Project | Stack | Phase |
+|:---:|:---|:---|:---:|
+| 🔷 | **Django Web Application** — Full-featured web app with auth, dashboards & DB | `Python` `Django` `SQLite` | `BUILDING` |
+| 🔶 | **REST API Backend** — Clean endpoints, serializers, token auth | `DRF` `JSON` `Postman` | `LEARNING` |
+| 🟣 | **Portfolio Website** — Personal site to showcase projects | `HTML` `CSS` `JS` | `PLANNING` |
+| 🟢 | **Clean Code Refactor Lab** — Practicing SOLID, DRY, readable code | `Python` `Git` | `ONGOING` |
 
 </div>
+
+<br/>
 
 ---
 
-## 📈 Activity Graph
+<br/>
+
+<!--  ═══════════  STREAK  ═══════════ -->
+
+### ◈ &nbsp;Consistency
 
 <div align="center">
 
-[![Pal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pal2711&bg_color=0d1117&color=00c9ff&line=92fe9d&point=ffffff&area=true&hide_border=true)](https://github.com/Pal2711)
+<img src="https://streak-stats.demolab.com?user=Pal2711&theme=transparent&hide_border=true&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&currStreakNum=ffffff&sideNums=ffffff&background=00000000" />
 
 </div>
+
+<br/>
 
 ---
 
+<br/>
+
+<!--  ═══════════  ACTIVITY GRAPH  ═══════════ -->
+
+### ◈ &nbsp;Pulse
+
 <div align="center">
 
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pal2711&bg_color=0d1117&color=38bdf8&line=818cf8&point=fb923c&area_color=38bdf820&area=true&hide_border=true&radius=6)](https://github.com/Pal2711)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,100:00c9ff&height=120&section=footer" />
+<br/>
+
+---
+
+<br/>
+
+<!--  ═══════════  TROPHIES  ═══════════ -->
+
+### ◈ &nbsp;Earned
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pal2711&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!--  ═══════════  CONNECT  ═══════════ -->
+
+### ◈ &nbsp;Find Me
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Pal2711"><img src="https://img.shields.io/badge/GitHub-Pal2711-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pal-gajera-92976027b"><img src="https://img.shields.io/badge/LinkedIn-Pal%20Gajera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://x.com/GajeraPal55013"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-@GajeraPal55013-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+<br/><br/>
+
+<a href="https://www.instagram.com/_pal_27_/"><img src="https://img.shields.io/badge/Instagram-@_pal_27_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.threads.net/@pal_27"><img src="https://img.shields.io/badge/Threads-@pal__27-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.youtube.com/@Palgajera27"><img src="https://img.shields.io/badge/YouTube-@Palgajera27-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:palgajera7@gmail.com"><img src="https://img.shields.io/badge/Email-palgajera7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!--  ═══════════  FOOTER  ═══════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1f2d&height=2&section=footer" />
+
+<br/>
+
+```
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   "It's not about writing code.                          │
+│    It's about writing solutions."                        │
+│                                                          │
+│                               — Pal Gajera               │
+╰──────────────────────────────────────────────────────────╯
+```
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Pal2711&color=38bdf8&style=flat-square&label=Profile+Visits)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/Made%20with-❤️%20from%20Rajkot-0f172a?style=flat-square&labelColor=38bdf8&color=0f172a)
+
+<br/><br/>
+
+</div>
