@@ -40,7 +40,7 @@ goal: Become a Professional Full Stack Python Developer
 email: palgajera7@gmail.com
 ```
 
-- 🎓 Pursuing my **BCA** degree at **RK University**
+- 🎓 Completed my **BCA** degree at **RK University**
 - 💻 Passionate about backend development with **Python & Django**
 - 🌱 Currently deepening my knowledge of **REST APIs** and **Advanced Django**
 - 🚀 Love building real-world projects that solve practical problems
@@ -121,35 +121,6 @@ A ticket booking system for F1 races built with a MySQL backend and admin contro
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pal2711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pal2711&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pal2711&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pal2711&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<br/>
-
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pal2711&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 <br/>
 
