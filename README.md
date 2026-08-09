@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0077FF&height=250&section=header&text=Pal%20Gajera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### 🚀 Python Developer | Django Developer | BCA Student | Tech Enthusiast
+### 🚀 Python Developer | Django Developer |  Tech Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Django+Web+Developer+%F0%9F%9A%80;Backend+Developer+%F0%9F%92%BB;Building+Modern+Web+Applications+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
 
