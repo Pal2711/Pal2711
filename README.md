@@ -60,6 +60,7 @@ email: palgajera7@gmail.com
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
 </td>
+
 <td align="center" valign="top">
 
 **Backend**
@@ -67,8 +68,27 @@ email: palgajera7@gmail.com
 <img src="https://skillicons.dev/icons?i=python,django" />
 
 </td>
+
+<td align="center" valign="top">
+
+**AI Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=githubcopilot" height="40"/>
+<br/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white" />
+
+</td>
 </tr>
+
 <tr>
+
 <td align="center" valign="top">
 
 **Database**
@@ -76,6 +96,7 @@ email: palgajera7@gmail.com
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 </td>
+
 <td align="center" valign="top">
 
 **Tools**
@@ -83,6 +104,15 @@ email: palgajera7@gmail.com
 <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
 
 </td>
+
+<td align="center" valign="top">
+
+**Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=postman,docker,vercel" />
+
+</td>
+
 </tr>
 </table>
 
