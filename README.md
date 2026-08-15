@@ -142,11 +142,6 @@ A ticket booking system for F1 races, built with a MySQL backend and full admin 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pal2711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Pal2711&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pal2711&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <br/>
