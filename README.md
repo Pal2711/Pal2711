@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/pal-gajera-92976027b"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>&nbsp;
 <a href="https://www.instagram.com/_pal_27_/"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>&nbsp;
 <a href="https://x.com/GajeraPal55013"><img src="https://skillicons.dev/icons?i=twitter" height="35"/></a>&nbsp;
-<a href="https://www.youtube.com/@Palgajera27"><img src="https://skillicons.dev/icons?i=youtube" height="35"/></a>&nbsp;
 <a href="mailto:palgajera7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
 
 </div>
