@@ -46,70 +46,79 @@ email: palgajera7@gmail.com
 - 🚀 Love building real-world projects that solve practical problems
 - 🎯 Working towards becoming a **Full Stack Python Developer**
 - ⚡ Fun fact: I enjoy turning ideas into working web applications from scratch
-
 <br/>
 
 ## 🛠️ Tech Stack
 
 <table align="center">
 <tr>
-<td align="center" valign="top">
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+<!-- Frontend -->
+<td align="center" width="33%">
 
-</td>
+### Frontend
 
-<td align="center" valign="top">
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,django" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" />
 
 </td>
 
-<td align="center" valign="top">
+<!-- Backend -->
+<td align="center" width="33%">
 
-**AI Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=githubcopilot" height="40"/>
-<br/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white" />
+### Backend
+
+<img src="https://skillicons.dev/icons?i=python,django&perline=4" />
 
 </td>
+
+<!-- AI Tools -->
+<td align="center" width="33%">
+
+### 🤖 AI Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=githubcopilot" width="48" />
+<img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" />
+<img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" />
+<img src="https://cdn.simpleicons.org/replit/F26207" width="48" />
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/openai/ffffff" width="48" />
+<img src="https://cdn.simpleicons.org/google/4285F4" width="48" />
+<img src="https://cdn.simpleicons.org/warp/01A4FF" width="48" />
+</p>
+
+</td>
+
 </tr>
 
 <tr>
 
-<td align="center" valign="top">
+<!-- Database -->
+<td align="center">
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+### Database
 
-</td>
-
-<td align="center" valign="top">
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=4" />
 
 </td>
 
-<td align="center" valign="top">
+<!-- Tools -->
+<td align="center">
 
-**Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=postman,docker,vercel" />
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress&perline=4" />
+
+</td>
+
+<!-- Development -->
+<td align="center">
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=postman,docker,vercel&perline=4" />
 
 </td>
 
