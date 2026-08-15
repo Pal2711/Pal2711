@@ -21,7 +21,7 @@
 ## 💫 About Me
 
 ```yaml
-name:                Pal Gajera
+name:                 Pal Gajera
 education:            BCA Graduate — RK University
 location:             Rajkot, Gujarat, India
 focus:                Python, Django & Web Development
