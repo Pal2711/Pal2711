@@ -107,21 +107,6 @@ email: palgajera7@gmail.com
 <!-- Tools -->
 <td align="center">
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress&perline=4" />
-
-</td>
-
-<!-- Development -->
-<td align="center">
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=postman,docker,vercel&perline=4" />
-
-</td>
-
 </tr>
 </table>
 
