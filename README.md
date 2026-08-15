@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0077FF&height=250&section=header&text=Pal%20Gajera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 ### 🚀 Python Developer | Django Developer |  Tech Enthusiast
@@ -106,6 +107,21 @@ email: palgajera7@gmail.com
 
 <!-- Tools -->
 <td align="center">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress&perline=4" />
+
+</td>
+
+<!-- Development -->
+<td align="center">
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=postman,docker,vercel&perline=4" />
+
+</td>
 
 </tr>
 </table>
