@@ -41,61 +41,84 @@ email:                palgajera7@gmail.com
 
 ## 🛠️ Tech Stack
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 <td align="center" width="25%">
 
-**Frontend**
-<br/>
+<b>Frontend</b>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" />
 
 </td>
+
 <td align="center" width="25%">
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,django&perline=4" />
+<b>Backend</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,django,php&perline=3" />
 
 </td>
+
 <td align="center" width="25%">
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=4" />
+<b>Database</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2" />
 
 </td>
+
 <td align="center" width="25%">
 
-**Tools**
-<br/>
+<b>Programming</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs&perline=3" />
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<b>Tools</b>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
 
 </td>
-</tr>
-<tr>
-<td align="center" colspan="2">
 
-**DevOps / Deployment**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,vercel,wordpress&perline=4" />
+<td align="center">
+
+<b>DevOps / Deployment</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,vercel,wordpress&perline=3" />
 
 </td>
-<td align="center" colspan="2">
 
-**AI Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=githubcopilot&perline=4" />
+<td align="center">
+
+<b>AI Tools</b>
+<br/><br/>
 <img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" />
 <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" />
 <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" />
-<img src="https://cdn.simpleicons.org/replit/F26207" width="48" />
-<img src="https://cdn.simpleicons.org/warp/01A4FF" width="48" />
+<img src="https://cdn.simpleicons.org/githubcopilot/ffffff" width="48" />
 
 </td>
+
+<td align="center">
+
+<b>Other</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=sql,wordpress&perline=2" />
+
+</td>
+
 </tr>
 </table>
 
-<br/>
+</div>
 
 ## 🚀 Featured Projects
 
