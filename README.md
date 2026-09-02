@@ -102,62 +102,122 @@ email:                palgajera7@gmail.com
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
-### 🌟 Model Booking System
-A full-featured booking platform with authentication, profile management, and an admin dashboard.
-- 🔐 User authentication & role management
-- 👤 Profile creation and management
-- 📅 End-to-end booking workflow
-- ⭐ Feedback and rating system
-- 🖥️ Content management for listings
-- 📊 Admin dashboard with analytics
-- 📱 Fully responsive design
-**Stack:** Python · Django · MySQL/SQLite · Bootstrap
+
+<h3>🌟 Model Booking System</h3>
+
+<p>
+A full-featured model booking platform built with Django, featuring authentication, profiles, bookings, feedback, and an admin dashboard.
+</p>
+
+<p>
+🔐 Authentication & role management<br/>
+👤 Profile creation & management<br/>
+📅 Complete booking workflow<br/>
+⭐ Feedback & rating system<br/>
+📊 Admin dashboard<br/>
+📱 Responsive design
+</p>
+
+<p>
+<b>🛠️ Stack:</b><br/>
+Python · Django · MySQL/SQLite · Bootstrap
+</p>
+
 </td>
- 
+
 <td width="50%" valign="top">
-### 🏎️ Formula 1 Ticket Booking System
-A ticket booking system for F1 races, built with a MySQL backend and full admin controls.
-- 🏁 Race and event management
-- 🎟️ Real-time ticket booking
-- 👤 Personalized user dashboard
-- 📊 Admin panel for race operations
-- 🗄️ Relational data modeling in MySQL
-- 📱 Responsive, mobile-friendly interface
-**Stack:** Python · Django · MySQL · HTML/CSS/JS
+
+<h3>🏎️ Formula 1 Ticket Booking System</h3>
+
+<p>
+A Formula 1 ticket booking platform with race management, ticket booking, user dashboards, and administrative controls.
+</p>
+
+<p>
+🏁 Race & event management<br/>
+🎟️ Ticket booking system<br/>
+👤 User dashboard<br/>
+📊 Admin panel<br/>
+🗄️ MySQL database<br/>
+📱 Responsive interface
+</p>
+
+<p>
+<b>🛠️ Stack:</b><br/>
+Python · Django · MySQL · HTML/CSS/JS
+</p>
+
 </td>
 
 </tr>
-</table>
 
-<table>
 <tr>
+
 <td width="50%" valign="top">
-### 🕯️ Candel
-A modern candle-themed web application with a clean, elegant interface and responsive design.
-- 🕯️ Modern candle-themed UI
-- 🎨 Clean and attractive design
-- 📱 Fully responsive layout
-- ✨ Interactive user experience
-- 🌐 Live deployed website
-**Stack:** HTML · CSS · JavaScript · Vercel
+
+<h3>🕯️ Candel</h3>
+
+<p>
+A modern candle-themed website with an elegant interface, clean design, responsive layout, and interactive user experience.
+</p>
+
+<p>
+🕯️ Candle-themed UI<br/>
+🎨 Modern & clean design<br/>
+📱 Fully responsive<br/>
+✨ Interactive experience<br/>
+🌐 Live deployment
+</p>
+
+<p>
+<b>🛠️ Stack:</b><br/>
+HTML · CSS · JavaScript · Vercel
+</p>
+
+<p>
+<a href="https://candel-rho.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+</p>
+
 </td>
- 
+
 <td width="50%" valign="top">
-### 🏎️ BRABUS
-A premium automotive website inspired by the BRABUS brand, featuring a modern car showcase and responsive design.
-- 🚘 Luxury car showcase
-- 🏁 Automotive-focused UI
-- 🖼️ Vehicle presentation & details
-- 📱 Responsive design
-- 🎨 Modern premium interface
-- 🌐 GitHub-hosted project
-**Stack:** Wordpress 
+
+<h3>🏎️ BRABUS</h3>
+
+<p>
+A premium automotive website inspired by the BRABUS brand, focused on luxury vehicles, modern visuals, and a responsive user experience.
+</p>
+
+<p>
+🚘 Luxury car showcase<br/>
+🏁 Automotive-focused design<br/>
+🖼️ Vehicle presentation<br/>
+📱 Responsive interface<br/>
+🎨 Premium visual design<br/>
+💻 GitHub project
+</p>
+
+<p>
+<b>🛠️ Stack:</b><br/>
+WordPress
+</p>
+
+<p>
+<a href="https://github.com/Pal2711/BRABUS">
+<img src="https://img.shields.io/badge/💻_GitHub-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 </td>
 
 </tr>
 </table>
 
+<br/>
 <div align="center">
 
 </div>
