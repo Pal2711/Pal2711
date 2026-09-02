@@ -44,7 +44,7 @@ email:                palgajera7@gmail.com
  
  ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 <table>
 <tr>
@@ -87,7 +87,6 @@ email:                palgajera7@gmail.com
 <td>
 <img src="https://skillicons.dev/icons?i=githubcopilot&perline=1" />
 <img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" />
-<img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" />
 <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" />
 <img src="https://cdn.simpleicons.org/replit/F26207" width="48" />
 <img src="https://cdn.simpleicons.org/warp/01A4FF" width="48" />
