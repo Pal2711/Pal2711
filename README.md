@@ -133,6 +133,7 @@ A ticket booking system for F1 races, built with a MySQL backend and full admin 
 **Stack:** Python · Django · MySQL · HTML/CSS/JS
 
 </td>
+<br>
 <td width="50%" valign="top">
 
 ### 🕯️ Candel
