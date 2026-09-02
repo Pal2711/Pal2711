@@ -39,30 +39,46 @@ email:                palgajera7@gmail.com
 
 <br/>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-**🎨 Frontend:** 
+<div align="center">
+
+<b>🎨 Frontend</b><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" />
 
-**⚙️ Backend:** 
+<br><br>
+
+<b>⚙️ Backend</b><br>
 <img src="https://skillicons.dev/icons?i=python,django&perline=4" />
 
-**🗄️ Database:** 
+<br><br>
+
+<b>🗄️ Database</b><br>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=4" />
 
-**🛠️ Tools:** 
+<br><br>
+
+<b>🛠️ Tools</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
 
-**🚀 DevOps / Deployment:** 
+<br><br>
+
+<b>🚀 DevOps & Deployment</b><br>
 <img src="https://skillicons.dev/icons?i=docker,vercel,wordpress&perline=4" />
 
-**🤖 AI Tools:** 
-<img src="https://skillicons.dev/icons?i=githubcopilot&perline=4" />
+<br><br>
+
+<b>🤖 AI Tools</b><br>
+<img src="https://skillicons.dev/icons?i=githubcopilot&perline=1" />
 <img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" />
 <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" />
 <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" />
 <img src="https://cdn.simpleicons.org/replit/F26207" width="48" />
 <img src="https://cdn.simpleicons.org/warp/01A4FF" width="48" />
+
+</div>
+
+
 ## 🚀 Featured Projects
 
 <table>
