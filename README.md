@@ -50,6 +50,7 @@ email:                palgajera7@gmail.com
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" />
 
 </td>
+<br>
 <td align="center" width="25%">
 
 **Backend**
@@ -57,6 +58,7 @@ email:                palgajera7@gmail.com
 <img src="https://skillicons.dev/icons?i=python,django&perline=4" />
 
 </td>
+<br>
 <td align="center" width="25%">
 
 **Database**
