@@ -173,13 +173,7 @@ A modern candle-themed website with an elegant interface, clean design, responsi
 
 <p>
 <b>🛠️ Stack:</b><br/>
-HTML · CSS · JavaScript · Vercel
-</p>
-
-<p>
-<a href="https://candel-rho.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
+HTML · CSS · JavaScript
 </p>
 
 </td>
@@ -206,11 +200,7 @@ A premium automotive website inspired by the BRABUS brand, focused on luxury veh
 WordPress
 </p>
 
-<p>
-<a href="https://github.com/Pal2711/BRABUS">
-<img src="https://img.shields.io/badge/💻_GitHub-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+
 
 </td>
 
