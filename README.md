@@ -135,10 +135,83 @@ A ticket booking system for F1 races, built with a MySQL backend and full admin 
 </td>
 </tr>
 </table>
+<tr>
 
+<td width="50%" valign="top">
+
+### 🌟 Model Booking System
+A full-featured booking platform with authentication, profile management, and an admin dashboard.
+
+- 🔐 User authentication & role management
+- 👤 Profile creation and management
+- 📅 End-to-end booking workflow
+- ⭐ Feedback and rating system
+- 🖥️ Content management for listings
+- 📊 Admin dashboard with analytics
+- 📱 Fully responsive design
+
+**Stack:** Python · Django · MySQL/SQLite · Bootstrap
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏎️ Formula 1 Ticket Booking System
+A ticket booking system for F1 races, built with a MySQL backend and full admin controls.
+
+- 🏁 Race and event management
+- 🎟️ Real-time ticket booking
+- 👤 Personalized user dashboard
+- 📊 Admin panel for race operations
+- 🗄️ Relational data modeling in MySQL
+- 📱 Responsive, mobile-friendly interface
+
+**Stack:** Python · Django · MySQL · HTML/CSS/JS
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🕯️ Candel
+A modern candle-themed web application with a clean, elegant interface and responsive design.
+
+- 🕯️ Modern candle-themed UI
+- 🎨 Clean and attractive design
+- 📱 Fully responsive layout
+- ✨ Interactive user experience
+- 🌐 Live deployed website
+
+**Live:** https://candel-rho.vercel.app/
+
+**Stack:** HTML · CSS · JavaScript · Vercel
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏎️ BRABUS
+A premium automotive website inspired by the BRABUS brand, featuring a modern car showcase and responsive design.
+
+- 🚘 Luxury car showcase
+- 🏁 Automotive-focused UI
+- 🖼️ Vehicle presentation & details
+- 📱 Responsive design
+- 🎨 Modern premium interface
+- 🌐 GitHub-hosted project
+
+**GitHub:** https://github.com/Pal2711/BRABUS
+
+**Stack:** HTML · CSS · JavaScript · Bootstrap
+
+</td>
+
+</tr>
+</table>
 <br/>
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -155,6 +228,3 @@ A ticket booking system for F1 races, built with a MySQL backend and full admin 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0077FF&height=120&section=footer"/>
 
 </div>
- 
-
-in this chage this section with all is slow in the like all like this with img
