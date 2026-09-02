@@ -39,36 +39,26 @@ email:                palgajera7@gmail.com
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"><h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
-<b>🎨 Frontend</b><br>
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" />
 
-<br><br>
-
-<b>⚙️ Backend</b><br>
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=python,django&perline=4" />
 
-<br><br>
-
-<b>🗄️ Database</b><br>
+### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=4" />
 
-<br><br>
-
-<b>🛠️ Tools</b><br>
+### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
 
-<br><br>
-
-<b>🚀 DevOps & Deployment</b><br>
+### 🚀 DevOps & Deployment
 <img src="https://skillicons.dev/icons?i=docker,vercel,wordpress&perline=4" />
 
-<br><br>
-
-<b>🤖 AI Tools</b><br>
+### 🤖 AI Tools
 <img src="https://skillicons.dev/icons?i=githubcopilot&perline=1" />
 <img src="https://cdn.simpleicons.org/cursor/ffffff" width="48" />
 <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" />
@@ -78,7 +68,7 @@ email:                palgajera7@gmail.com
 
 </div>
 
-
+<br/>
 ## 🚀 Featured Projects
 
 <table>
